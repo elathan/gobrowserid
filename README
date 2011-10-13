@@ -1,0 +1,4 @@
+gobrowserid: Library for integrating BrowserID (https://browserid.org) in GO
+web application written for AppEngine or native HTTP servlets written in GO.
+
+(c) Elias Athanasopoulos  <elathan@ics.forth.gr>, 2011.
