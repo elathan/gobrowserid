@@ -47,9 +47,9 @@ html div#footer {
   width: 100%;
   text-align: center;
   font-family: 'Geometr231Bold', Arial, sans-serif;
-/*  font-weight: bold;*/
   font-size: 20px;
   padding: 10px;
+  background: #02487B;
 }
 
 img {
@@ -64,7 +64,7 @@ a:link {
 
 a:visited {
   text-decoration: none;
-  color: #FFFF00;
+  color: #FFF;
 }
 
 a:hover {
@@ -81,12 +81,14 @@ div#neetbox {
   margin-left: 2px;
   margin-right: 2px;
   margin-bottom: 2%;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
 	border: 1px solid #000;
-	padding: 5px;  
- 	background: #DDD;
-  font: 190.01% "Trebuchet MS",Verdana,Arial,sans-serif;  
+	padding: 15px;  
+/*  background: #DDD;*/
+  background:#00A;
+  color: #FFF;
+  font: 120.01% "Trebuchet MS",Verdana,Arial,sans-serif;  
   -webkit-box-shadow: 2px 2px 2px #000000;
   -webkit-box-shadow: 2px 2px 5px #000000;
 }
